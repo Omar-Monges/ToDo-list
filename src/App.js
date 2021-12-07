@@ -6,7 +6,7 @@ import { TodoItem } from './components/TodoItem'
 import { CreateTodoButton } from './components/CreateTodoButton'
 
 
-// import './App.css';
+import './App.css';
 
 const todos = [
   { text: 'Pelar papas', completed: false },

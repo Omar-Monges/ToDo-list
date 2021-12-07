@@ -2,7 +2,7 @@ import React from 'react'
 
 function TodoSearch() {
     return (
-        <input type='text' placeholder='cebolla' />
+        <input className="text-container" type='text' placeholder='cebolla' />
     )
 }
 
