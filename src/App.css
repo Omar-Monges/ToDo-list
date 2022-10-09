@@ -57,6 +57,6 @@ button {
   height: 45px;
   border-radius: 50%;
   border: none;
-  position: relative;
-  left: 85%;
+  /* position: relative;
+  left: 85%; */
 }

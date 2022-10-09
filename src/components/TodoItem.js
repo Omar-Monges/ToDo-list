@@ -3,9 +3,9 @@ import React from 'react'
 function TodoItem(props) {
     return (
         <ul>
-            <span>C</span>
-            <p>{props.text}</p>
-            <span>X</span>
+            <label>{props.text}
+                <input type="checkbox" />
+            </label>
         </ul>
     )
 }
